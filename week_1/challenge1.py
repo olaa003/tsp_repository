@@ -14,5 +14,5 @@ def large_factorial(num):
 print(large_factorial(100))
 
 
-def create_comic():
+
     
