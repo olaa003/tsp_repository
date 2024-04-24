@@ -1,7 +1,7 @@
 #### Datasets on Kaggle I Have Found Interesting and Analysis I Wish to Carry out on Them.
 
 1. [Stock Exchange Data](https://www.kaggle.com/datasets/mattiuzc/stock-exchange-data):
-> - Look at what are the overal top gainers.
+> - Look at the overal top gainers.
 > - Are there seasonal gainers and identify them.
 > - Do stocks iin some countries gain more than some in other countries?
 > - How to spot top gainers.
