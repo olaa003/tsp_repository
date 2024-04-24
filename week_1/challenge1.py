@@ -11,8 +11,6 @@ def large_factorial(num):
             carry //= 10
     return arr
 
-print(large_factorial(100))
-
 
 
     
